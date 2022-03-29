@@ -1,0 +1,26 @@
+{
+  "name": "@sujalgoel/lyrics-finder",
+  "version": "1.0.0",
+  "description": "An npm package to get song lyrics from Google.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "lyrics-finder"
+  ],
+  "homepage": "https://github.com/sujalgoel/lyrics-finder#readme",
+  "bugs": {
+    "url": "https://github.com/sujalgoel/lyrics-finder/issues"
+  },
+  "author": "Sujal Goel <https://github.com/sujalgoel>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sujalgoel/lyrics-finder.git"
+  },
+  "license": "CC BY-NC-ND 4.0",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "html-entities": "^2.3.2"
+  }
+}
